@@ -1,0 +1,6 @@
+{
+    "repo_name": "giuem/crazyarcade-room-server",
+    "tag": "latest",
+    "container_name": "server-test",
+    "flags": "-p 4000:4000"
+}
